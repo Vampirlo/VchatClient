@@ -1,0 +1,7 @@
+﻿  iniManager.cpp
+D:\vs\visual studio\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\vs_proj\VchatClient\iniManager\iniManager.h(7,10): error C1083: Не удается открыть файл включение: SFML/Network.hpp: No such file or directory,
+  (компиляция исходного файла "iniManager/iniManager.cpp")
+  
+  MessageQueue.cpp
+  VchatClient.cpp
