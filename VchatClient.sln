@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VchatClient", "VchatClient.vcxproj", "{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VchatClientSetup", "..\VchatClientSetup\VchatClientSetup.vdproj", "{2F0B00F5-302D-491B-8E91-608FBCCE20F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}.Debug|x64.ActiveCfg = Debug|x64
+		{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}.Debug|x64.Build.0 = Debug|x64
+		{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}.Debug|x86.Build.0 = Debug|Win32
+		{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}.Release|x64.ActiveCfg = Release|x64
+		{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}.Release|x64.Build.0 = Release|x64
+		{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}.Release|x86.ActiveCfg = Release|Win32
+		{8C91D138-E3D1-4F52-941C-07A1D8BF5CD5}.Release|x86.Build.0 = Release|Win32
+		{2F0B00F5-302D-491B-8E91-608FBCCE20F9}.Debug|x64.ActiveCfg = Debug
+		{2F0B00F5-302D-491B-8E91-608FBCCE20F9}.Debug|x86.ActiveCfg = Debug
+		{2F0B00F5-302D-491B-8E91-608FBCCE20F9}.Release|x64.ActiveCfg = Release
+		{2F0B00F5-302D-491B-8E91-608FBCCE20F9}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {178D4B9F-7D87-482D-936E-5D7B5330D3B0}
+	EndGlobalSection
+EndGlobal
